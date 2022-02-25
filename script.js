@@ -70,7 +70,7 @@ function carregar() {
         //boa tarde!
         img.src = "tarde2.jpg"
         msg.innerHTML += '<br><strong><h3>Boa tarde !</h3></br></strong>'
-        //window.document.body.style.background = '#F9BD65'
+        window.document.body.style.background = '#F9BD65'
         
         
     }else {
